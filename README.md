@@ -1,3 +1,0 @@
-# RAS INTERIM
-
-test
